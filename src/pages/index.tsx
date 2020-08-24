@@ -13,13 +13,13 @@ export default () => (
         src="/vercel-and-notion.png"
         height="85"
         width="250"
-        alt="Vercel + Notion"
+        alt="Полезный контент."
       />
-      <h1>My Notion Blog</h1>
+      <h1>Дети без страха</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
+        Test text'{' '}
         <ExtLink
-          href="https://github.com/vercel/next.js/issues/9524"
+          href="google.com"
           className="dotted"
           style={{ color: 'inherit' }}
         >
